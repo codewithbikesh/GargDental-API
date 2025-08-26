@@ -1,0 +1,259 @@
+[18-Jul-2025 10:07:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
+[18-Jul-2025 10:07:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/omsokcom/gargdental.omsok.com/vendor/composer/../spatie/flare-client-php/src/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php(45): {closure}('3bd81c9b8fcc150...', '/home/omsokcom/...')
+#1 /home/omsokcom/gargdental.omsok.com/vendor/autoload.php(25): ComposerAutoloaderInit13845c125e44e2f64ccf956e1d4a9360::getLoader()
+#2 /home/omsokcom/gargdental.omsok.com/index.php(14): require('/home/omsokcom/...')
+#3 {main}
+  thrown in /home/omsokcom/gargdental.omsok.com/vendor/composer/autoload_real.php on line 41
