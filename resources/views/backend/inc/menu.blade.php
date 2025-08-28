@@ -165,7 +165,7 @@ use App\CentralLogics\Helpers;
         data-bs-parent="#sidebar-nav">
 
         {{-- Add Product (only if admin has product-add permission) --}}
-        @if(\App\CentralLogics\Helpers::module_permission_check('product-add'))
+        @if(Helpers::module_permission_check('product-add'))
             <li>
                 <a href="{{ route('backend.products.new') }}" 
                    class="{{ request()->routeIs('backend.products.new') ? 'active' : '' }}">

@@ -13,6 +13,11 @@ class AdminRole extends Model
     protected $casts = [
         'status' => 'boolean',
     ];
+
+    public function admins()
+    {
+        return $this->hasMany(Admin::class, 'role_id');
+    }
     
     public function translations()
     {

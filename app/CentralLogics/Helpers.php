@@ -367,25 +367,51 @@ class Helpers
         return $prefix . $timestamp . str_pad($lastNumber + 1, 4, '0', STR_PAD_LEFT);
     }
     
-   public static function module_permission_check($mod_name)
+//    public static function module_permission_check($mod_name)
+// {
+//     $user = auth('admin')->user();
+
+//     dd($user);
+//     if (!$user || !$user->role) {
+//         return false;
+//     }
+
+//     if ($mod_name == 'zone' && $user->zone_id) {
+//         return false;
+//     }
+
+//     $permission = $user->role->modules;
+//     if (isset($permission) && in_array($mod_name, (array)json_decode($permission))) {
+//         return true;
+//     }
+
+//     return false;
+// }
+
+
+public static function module_permission_check($mod_name)
 {
     $user = auth('admin')->user();
+
+    // Debug direct on browser
+    // dump([
+    //     'user_id' => $user?->id,
+    //     'role' => $user?->role?->name,
+    //     'modules' => json_decode($user?->role?->modules, true),
+    //     'check_module' => $mod_name,
+    //     'has_permission' => $user && $user->role 
+    //                         && in_array($mod_name, (array) json_decode($user->role->modules, true))
+    // ]);
 
     if (!$user || !$user->role) {
         return false;
     }
 
-    if ($mod_name == 'zone' && $user->zone_id) {
-        return false;
-    }
+    $permissions = json_decode($user->role->modules, true);
 
-    $permission = $user->role->modules;
-    if (isset($permission) && in_array($mod_name, (array)json_decode($permission))) {
-        return true;
-    }
-
-    return false;
+    return (is_array($permissions) && in_array($mod_name, $permissions));
 }
+
 
 
     public static function get_settings($name)

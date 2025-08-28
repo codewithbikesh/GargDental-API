@@ -4,7 +4,7 @@ namespace App\Http\Middleware;
 
 use App\CentralLogics\Helpers;
 use Closure;
-
+use Illuminate\Support\Facades\Auth;
 class ModulePermissionMiddleware
 {
     /**
@@ -15,16 +15,25 @@ class ModulePermissionMiddleware
      * @param string $module
      * @return mixed
      */
+    // public function handle($request, Closure $next, $module)
+    // {
+    //     if (auth('admin')->check() && Helpers::module_permission_check($module)) {
+    //         return $next($request);
+    //     }
+
+    //     abort(403, 'Access denied');
+    // }
+
     public function handle($request, Closure $next, $module)
     {
-        if (auth('admin')->check() && Helpers::module_permission_check($module)) {
-            return $next($request);
+        // check admin guard
+        if (Auth::guard('admin')->check()) {
+            if (Helpers::module_permission_check($module)) {
+                return $next($request);
+            }
         }
 
-        // Option 1: Abort with 403 Forbidden
-        abort(403, 'Access denied');
-
-        // Option 2: Or redirect back (uncomment if preferred)
-        // return redirect()->back();
+        // Forbidden
+        abort(403, 'Access denied to module: ' . $module);
     }
 }

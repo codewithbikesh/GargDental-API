@@ -33,7 +33,7 @@ return [
             'provider' => 'customers',
         ],
 
-        'admin' => [           // Added admin guard
+        'admin' => [       
             'driver' => 'session',
             'provider' => 'admins',
         ],
